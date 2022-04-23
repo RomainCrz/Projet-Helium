@@ -1,0 +1,20 @@
+1 - Créer du bon contenu :
+    - 400 mots par page mini
+    - Garder un contenu à jour
+    - Ne pas répéter toujours les mêmes choses
+    - Ne pas faire une page d'intro avant le site (gros pop up qui prend tout l'écran)
+    Pas de lien "cliquez ici" "en savoir plus"
+    - Penser à être local (préciser ville, quartier, region), le robot privilégie les choses locales. Mettre .fr si votre site est destiné qu'à la France.
+
+2 - HTML "seo firendly"
+    - voir Helium
+    - open graph : https://ogp.me/
+    - Tester open graph : https://cards-dev.twitter.com/validator
+
+3 - Site rapide (performant)
+    - Le robot teste le temps de chargement
+    - Il faut que le JS soit lu en dernier
+    - Il faut faire apparaitre le plus vite possible une couleur de fond 
+    - Privilégier les images depuis le CSS (et non pas la balise IMG)
+
+Tester son SEO : plugin "Lighthouse"
