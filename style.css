@@ -34,6 +34,11 @@ nav ul {
 h1 {
   font-size: 5rem;
 }
+.header-left{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .header-left-container h3 {
   color: #474dff;
   font-size: 1.8rem;
